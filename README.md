@@ -1,5 +1,7 @@
 # async-functions-wrap
 
+wrap your async function with catch.
+
 ## Usage
 
 ### before
